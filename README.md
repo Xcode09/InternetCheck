@@ -1,0 +1,2 @@
+# InternetCheck
+InternetCheck in swift 
